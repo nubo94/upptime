@@ -4,18 +4,20 @@
     "url": "https://ecommerce-monorepo-app-dev.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/ecommerce-monorepo-app-dev.vercel.app.ico",
     "slug": "e-commerce-app-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2335,
-    "timeDay": 264,
-    "timeWeek": 1757,
-    "timeMonth": 2273,
-    "timeYear": 2335,
-    "dailyMinutesDown": {}
+    "time": 2278,
+    "timeDay": 182,
+    "timeWeek": 1550,
+    "timeMonth": 2205,
+    "timeYear": 2278,
+    "dailyMinutesDown": {
+      "2024-09-25": 0
+    }
   },
   {
     "name": "Raffles (Dev)",
