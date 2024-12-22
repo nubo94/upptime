@@ -3,12 +3,12 @@ owner: nubo94 # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: VITRi
+  - name: VITRi (Marketing)
     url: https://vitri.store
-  - name: VITRi (Staging)
-    url: https://vitri-staging-app.vercel.app
-  - name: VITRi (Dev)
-    url: https://vitri-dev-app.vercel.app
+  - name: VITRi (App)
+    url: https://app.vitri.store
+  - name: VITRi (Policies)
+    url: https://policies.vitri.store
   - name: Raffles (Dev)
     url: https://develop-raffles-sigma.vercel.app
   - name: Ai-Documents
