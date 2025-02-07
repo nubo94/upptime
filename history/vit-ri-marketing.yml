@@ -1,7 +1,7 @@
 url: https://vitri.store
-status: up
-code: 200
-responseTime: 3833
-lastUpdated: 2025-02-06T23:17:34.661Z
+status: down
+code: 504
+responseTime: 11410
+lastUpdated: 2025-02-07T20:59:41.042Z
 startTime: 2024-12-22T20:55:35.988Z
 generator: Upptime <https://github.com/upptime/upptime>
