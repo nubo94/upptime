@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2515,
-    "timeDay": 3736,
+    "time": 2492,
+    "timeDay": 1204,
     "timeWeek": 3560,
-    "timeMonth": 2569,
-    "timeYear": 2515,
+    "timeMonth": 2523,
+    "timeYear": 2492,
     "dailyMinutesDown": {
       "2025-02-07": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 3260,
-    "timeDay": 4227,
-    "timeWeek": 4060,
-    "timeMonth": 3160,
-    "timeYear": 3260,
+    "time": 3225,
+    "timeDay": 1358,
+    "timeWeek": 3763,
+    "timeMonth": 3089,
+    "timeYear": 3225,
     "dailyMinutesDown": {
       "2025-02-07": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1641,
-    "timeDay": 2217,
-    "timeWeek": 2850,
-    "timeMonth": 1712,
-    "timeYear": 1641,
+    "time": 1630,
+    "timeDay": 1053,
+    "timeWeek": 2757,
+    "timeMonth": 1695,
+    "timeYear": 1630,
     "dailyMinutesDown": {
       "2025-02-07": 19
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.vitri.store.ico",
     "slug": "vit-ri-blog",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 2692,
-    "timeDay": 2813,
-    "timeWeek": 3320,
-    "timeMonth": 2692,
-    "timeYear": 2692,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2611,
+    "timeDay": 1223,
+    "timeWeek": 3175,
+    "timeMonth": 2611,
+    "timeYear": 2611,
     "dailyMinutesDown": {
       "2025-02-07": 18
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4069,
-    "timeDay": 4380,
-    "timeWeek": 3450,
-    "timeMonth": 3479,
-    "timeYear": 4069,
+    "time": 4046,
+    "timeDay": 725,
+    "timeWeek": 2899,
+    "timeMonth": 3372,
+    "timeYear": 4046,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2177,
-    "timeDay": 2160,
-    "timeWeek": 1693,
-    "timeMonth": 1844,
-    "timeYear": 2177,
+    "time": 2164,
+    "timeDay": 307,
+    "timeWeek": 1427,
+    "timeMonth": 1784,
+    "timeYear": 2164,
     "dailyMinutesDown": {}
   },
   {
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 96,
-    "timeWeek": 89,
-    "timeMonth": 95,
+    "timeDay": 60,
+    "timeWeek": 87,
+    "timeMonth": 93,
     "timeYear": 106,
     "dailyMinutesDown": {}
   }
