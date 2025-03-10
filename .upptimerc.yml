@@ -11,6 +11,8 @@ sites:
     url: https://policies.vitri.store
   - name: VITRi (Blog)
     url: https://blog.vitri.store
+  - name: VITRi (Roadmap)
+    url: https://roadmap.vitri.store
   - name: Raffles (Dev)
     url: https://develop-raffles-sigma.vercel.app
   - name: Ai-Documents
