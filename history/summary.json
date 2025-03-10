@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2609,
-    "timeDay": 3502,
-    "timeWeek": 3112,
-    "timeMonth": 2790,
-    "timeYear": 2609,
+    "time": 2583,
+    "timeDay": 1975,
+    "timeWeek": 2779,
+    "timeMonth": 2709,
+    "timeYear": 2583,
     "dailyMinutesDown": {
       "2025-02-07": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 3285,
-    "timeDay": 4476,
-    "timeWeek": 3545,
-    "timeMonth": 3335,
-    "timeYear": 3285,
+    "time": 3253,
+    "timeDay": 2539,
+    "timeWeek": 3177,
+    "timeMonth": 3240,
+    "timeYear": 3253,
     "dailyMinutesDown": {
       "2025-02-07": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1746,
-    "timeDay": 2143,
-    "timeWeek": 2007,
-    "timeMonth": 1948,
-    "timeYear": 1746,
+    "time": 1730,
+    "timeDay": 1273,
+    "timeWeek": 1806,
+    "timeMonth": 1895,
+    "timeYear": 1730,
     "dailyMinutesDown": {
       "2025-02-07": 19
     }
@@ -70,14 +70,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2508,
-    "timeDay": 2662,
-    "timeWeek": 2568,
-    "timeMonth": 2396,
-    "timeYear": 2508,
+    "time": 2469,
+    "timeDay": 1693,
+    "timeWeek": 2337,
+    "timeMonth": 2339,
+    "timeYear": 2469,
     "dailyMinutesDown": {
       "2025-02-07": 18
     }
+  },
+  {
+    "name": "VITRi (Roadmap)",
+    "url": "https://roadmap.vitri.store",
+    "icon": "https://icons.duckduckgo.com/ip3/roadmap.vitri.store.ico",
+    "slug": "vit-ri-roadmap",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 676,
+    "timeDay": 676,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Raffles (Dev)",
@@ -90,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4051,
-    "timeDay": 4930,
-    "timeWeek": 4196,
-    "timeMonth": 3956,
-    "timeYear": 4051,
+    "time": 4031,
+    "timeDay": 2763,
+    "timeWeek": 3746,
+    "timeMonth": 3840,
+    "timeYear": 4031,
     "dailyMinutesDown": {}
   },
   {
@@ -108,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2155,
-    "timeDay": 2354,
-    "timeWeek": 2090,
-    "timeMonth": 2043,
-    "timeYear": 2155,
+    "time": 2145,
+    "timeDay": 1375,
+    "timeWeek": 1878,
+    "timeMonth": 1986,
+    "timeYear": 2145,
     "dailyMinutesDown": {}
   },
   {
@@ -127,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 52,
-    "timeWeek": 135,
-    "timeMonth": 138,
+    "timeDay": 54,
+    "timeWeek": 125,
+    "timeMonth": 135,
     "timeYear": 111,
     "dailyMinutesDown": {}
   }
