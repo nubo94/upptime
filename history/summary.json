@@ -84,18 +84,20 @@
     "url": "https://roadmap.vitri.store",
     "icon": "https://icons.duckduckgo.com/ip3/roadmap.vitri.store.ico",
     "slug": "vit-ri-roadmap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1563,
-    "timeDay": 877,
-    "timeWeek": 1563,
-    "timeMonth": 1563,
-    "timeYear": 1563,
-    "dailyMinutesDown": {}
+    "time": 1264,
+    "timeDay": 473,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264,
+    "dailyMinutesDown": {
+      "2025-03-13": 0
+    }
   },
   {
     "name": "Raffles (Dev)",
