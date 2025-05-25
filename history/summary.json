@@ -107,19 +107,19 @@
     "url": "https://develop-raffles-sigma.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/develop-raffles-sigma.vercel.app.ico",
     "slug": "raffles-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 4077,
-    "timeDay": 4323,
-    "timeWeek": 4611,
-    "timeMonth": 4306,
-    "timeYear": 4077,
+    "time": 4079,
+    "timeDay": 4506,
+    "timeWeek": 4621,
+    "timeMonth": 4318,
+    "timeYear": 4079,
     "dailyMinutesDown": {
-      "2025-05-25": 0
+      "2025-05-25": 9
     }
   },
   {
